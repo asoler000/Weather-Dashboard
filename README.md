@@ -40,7 +40,7 @@ The following image demonstrates the application functionality:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed application https://asoler000.github.io/Weather-Dashboard/
 
 * The URL of the GitHub repository. https://github.com/asoler000/Weather-Dashboard
 
